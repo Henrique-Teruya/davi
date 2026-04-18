@@ -24,8 +24,8 @@ Algo que, quando alguém abrisse, pensasse:
 
 > “Caralho… isso aqui é diferente.”
 
-Cada animação teria propósito.  
-Cada texto teria impacto.  
+Cada animação teria propósito.
+Cada texto teria impacto.
 Cada detalhe visual contaria uma parte da história.
 
 Não seria apenas sobre código.
